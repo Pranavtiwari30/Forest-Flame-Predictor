@@ -47,7 +47,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/algerian-forest-fires.git
+git clone https://github.com/Pranavtiwari30/Forest-Flame-Predictor
 cd algerian-forest-fires
 
 Install the required dependencies:
